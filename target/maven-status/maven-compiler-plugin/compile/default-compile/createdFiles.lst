@@ -1,0 +1,6 @@
+com\walmart\qa\pages\SignUpPage.class
+com\walmart\qa\pages\LoginPage.class
+com\walmart\qa\pages\HomePage.class
+com\walmart\qa\util\TestUtil.class
+com\walmart\qa\base\TestBase.class
+com\walmart\qa\tesdata\LoginPageTest.class
